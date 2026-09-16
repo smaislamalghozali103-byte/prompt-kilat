@@ -1,0 +1,6 @@
+{
+  "name": "PromKil - Prompt Kilat Visual AI",
+  "description": "Asisten AI Kreatif Pembuat Prompt Visual Profesional untuk poster, infografis, banner, feed IG, slide, LKPD, logo, mockup, 3D, dan video AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
